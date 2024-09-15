@@ -25,4 +25,4 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone este repositório em sua máquina local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerador-de-senhas.git
+   git clone https://github.com/mandyszk/gerador-de-senhas.git
